@@ -28,3 +28,18 @@
         "iso_language_code"=>"fr",
         "source"=>"&lt;a href=&quot;http://twitterfeed.com&quot; rel=&quot;nofollow&quot;&gt;twitterfeed&lt;/a&gt;"},
     ]
+
+
+[{"location":"Charlotte, NC",
+        "profile_image_url":"http://a3.twimg.com/profile_images/1148371619/zombietacoinspace_normal.jpg",
+        "created_at":"Sun, 24 Oct 2010 05:09:53 +0000",
+        "from_user":"benmarvin",
+        "metadata":{"result_type":"recent"},
+        "to_user_id":229529,
+        "text":"@wuori it still does. Same clip plays when you start the android app",
+        "id":28567602900,
+        "from_user_id":573,
+        "to_user":"wuori",
+        "geo":null,
+        "iso_language_code":"en",
+        "source":"&lt;a href=&quot;http://levelupstudio.com&quot; rel=&quot;nofollow&quot;&gt;Touiteur&lt;/a&gt;"}

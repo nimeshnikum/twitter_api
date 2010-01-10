@@ -1,6 +1,18 @@
-id,name,description,latitude,longitude
-1,test1,description 1,40.766177,-74.249096
-2,test2,description 2,40.766177,-74.249096
-3,test3,description 3,40.710355,-73.735964
-4,test4,description 4,40.710356,-73.735974
-5,test5,description 5,40.710855,-73.736964
+id,profile_image_url,location,text,from_user,to_user,geo
+28568122326,http://a1.twimg.com/profile_images/802232753/494069482_d153568de3_s_normal.jpg,"Dallas, TX",@TourSpot I haven't had a chance to play with the others yet. But the Sony is running a flavor of Android 1.6 so it lack some good stuff.,bgrigson,tourspot,
+28567983177,http://a2.twimg.com/profile_images/1113014670/image_normal.jpg,Oklahoma,Hey! I'm live on Ustream from my Android phone - http://ustre.am/pfOO - 00:16 AM Oct 24,DaPrinceOfOk,,
+28567844162,http://a2.twimg.com/profile_images/1113014670/image_normal.jpg,Oklahoma,"I'm broadcasting from Android phone, live on Ustream - http://ustre.am/pfOO - 00:13 AM Oct 24",DaPrinceOfOk,,
+28567752444,http://a2.twimg.com/profile_images/385983270/BellaBracelet_Apple_normal.jpg,usa,"Great deals on all brands of Tablet Computers: Apad, Apple, Asus, EPAD, Google Android, HP, Lenovo, Samsung &amp; more ad: http://bit.ly/cxpzkq",TwiJewelry,,
+28567738658,http://a2.twimg.com/profile_images/1113014670/image_normal.jpg,Oklahoma,"I'm broadcasting from Android phone, live on Ustream. Come watch! - http://ustre.am/pfOO - 00:12 AM Oct 24",DaPrinceOfOk,,
+28567443369,http://a1.twimg.com/profile_images/394810381/jaguar_normal.jpg,Global,RT @BreakingAndroid: TalkAndroid Exclusive – Download Angry Birds Ringtones and SMS / Notification Tones http://bit.ly/a1j1rl via http://topicfire.com/Android,SanGatiche,,
+28567421970,http://a0.twimg.com/profile_images/753402224/tech-news-stories-twitter_normal.png,Global,"HTC Knight surfaces for Sprint with Android and a sliding hinge of some sort?: 
+What do we know about the picture ... http://bit.ly/9hqdIf",TechNewsStories,,
+28567421488,http://a3.twimg.com/profile_images/673129463/TweetMeme_icon_main_normal.png,Worldwide,HTC Knight surfaces for Sprint with Android and a sliding hinge of some sort? -- En.. http://retwt.me/1Pl19 (via @xoopia),TM_IPhone,,
+28567421335,http://a0.twimg.com/profile_images/68516188/mouse_logo_normal.png,United States,"HTC Knight surfaces for Sprint with Android and a sliding hinge of some sort?: 
+What do we know about the picture ... http://bit.ly/9hqdIf",lando411,,
+28567367061,http://a1.twimg.com/profile_images/1127428701/1231_normal.jpg,United States,looking into ekens android &quot;2.0&quot;,ecotox,,
+28567207812,http://a1.twimg.com/profile_images/1134232149/7seo7_normal.png,usa,"Geocaching Claims 2X Participants as Foursquare, Launches New Android App: http://www.readwriteweb.com/archives/geocaching_claims_2x_p...",7seo7,,
+28567207764,http://a3.twimg.com/profile_images/1137541343/business_normal.jpg,Global,"Geocaching Claims 2X Participants as Foursquare, Launches New Android App: http://www.readwriteweb.com/archives/geocaching_claims_2x_p...",7globalbiz7,,
+28567177585,http://a1.twimg.com/profile_images/1149955837/69099_438547626923_503521923_5930812_6142919_n_normal.jpg,"Lucedale, MS",#Android users: do you have a preference between the #kindle and #nook apps?,DustinChristian,,
+28566933852,http://s.twimg.com/a/1287010001/images/default_profile_0_normal.png,usa,HTC Android Z demo _+ FREE HTC EVO 4G: bit.ly Claim your FREE HTC EVO 4G HTC Android Z demo hero touch pro android... http://bit.ly/aupi5G,mobionline,,
+28566919368,http://a1.twimg.com/profile_images/810118521/robertv_normal.png,"Wichita, KS area",Android's surging growth weans Google off search ads http://bit.ly/d1JhP6,robertvanselow,,
