@@ -1,0 +1,11 @@
+(in /home/nimesh/Documents/projects/twitter_api)
+search_index GET    /search(.:format)                  {:action=>"index", :controller=>"search"}
+             POST   /search(.:format)                  {:action=>"create", :controller=>"search"}
+  new_search GET    /search/new(.:format)              {:action=>"new", :controller=>"search"}
+ edit_search GET    /search/:id/edit(.:format)         {:action=>"edit", :controller=>"search"}
+      search GET    /search/:id(.:format)              {:action=>"show", :controller=>"search"}
+             PUT    /search/:id(.:format)              {:action=>"update", :controller=>"search"}
+             DELETE /search/:id(.:format)              {:action=>"destroy", :controller=>"search"}
+        root        /                                  {:action=>"index", :controller=>"search"}
+                    /:controller/:action/:id           
+                    /:controller/:action/:id(.:format) 

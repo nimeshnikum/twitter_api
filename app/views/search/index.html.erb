@@ -1,0 +1,11 @@
+<h1>Search</h1>
+
+<% form_tag search_index_path, :method => :get do %>
+<p>
+  <label>Keywords: </label>
+  <%= text_field_tag "search_keyword" %>
+</p>
+<p>
+  <%= submit_tag "Search" %>
+</p>
+<% end %>
