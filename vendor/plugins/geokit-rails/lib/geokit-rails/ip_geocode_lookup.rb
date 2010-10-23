@@ -14,7 +14,8 @@ module Geokit
     # Class method to mix into active record.
     module ClassMethods # :nodoc:
       def geocode_ip_address(filter_options = {})
-        before_filter :store_ip_location, filter_options
+#        before_filter :store_ip_location, filter_options
+        before_filter :get_ip_location, filter_options
       end
     end
  
@@ -28,6 +29,10 @@ module Geokit
       session[:geo_location] ||= retrieve_location_from_cookie_or_service
       cookies[:geo_location] = { :value => session[:geo_location].to_yaml, :expires => 30.days.from_now } if session[:geo_location]
     end    
+    
+    def get_ip_location
+      @geocode = retrieve_location_from_cookie_or_service
+    end
     
     # Uses the stored location value from the cookie if it exists.  If
     # no cookie exists, calls out to the web service to get the location. 

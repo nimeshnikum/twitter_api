@@ -1,0 +1,53 @@
+<script src="http://geocommons.com/javascripts/f1.api.js" type="text/javascript"></script>
+
+<style type="text/css" media="screen">
+  #example_map {
+    height: 400px;
+    width: 100%;
+  }
+  #header {
+    padding: 15px;
+    background: #ccc;
+    border-bottom: 1px solid #333;
+    text-align: center;
+  }
+  #header h3, #header p {margin: 0;}
+  body {
+    font-family: Helvetica, Arial;
+    font-size: small;
+  }
+  .left {
+    width: 70%;
+    height: 400px;
+    float: left;
+  }
+  .right {
+    width: 20%;
+    padding: 0 1%;
+    float: left;
+  }
+</style>
+
+<script type="text/javascript" charset="utf-8">
+  first_map = new F1.Maker.Map({map_id: "26450", dom_id: "example_map"});
+</script>
+
+<h1>Search</h1>
+
+<% form_tag search_index_path, :method => :get do %>
+<p>
+  <label>Keywords: </label>
+  <%= text_field_tag "q" %>
+</p>
+<p>
+  <%= submit_tag "Search", :name => nil %>
+</p>
+<% end %>
+
+<div class="atlas left">
+  <div id='example_map'>
+    <div class='loading'>
+      Loading...
+    </div>
+  </div>
+</div>
